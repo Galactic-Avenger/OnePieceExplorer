@@ -5,7 +5,12 @@ A One Piece–themed iOS app built with Swift as part of a CSCI course project.
 ---
 
 ## Demo
-[![Watch the YouTube Short](https://youtube.com)](https://youtube.com/shorts/YBJABlX2ddI)
+<p align="center">
+  <a href="https://youtube.com/shorts/YBJABlX2ddI">
+    <img src="https://youtube.com" alt="Watch the demo video" width="400">
+  </a>
+</p>
+
 
 
 ## Built With
