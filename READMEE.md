@@ -5,18 +5,7 @@ A One Piece–themed iOS app built with Swift as part of a CSCI course project.
 ---
 
 ## Demo
-
-<!-- 
-  To add your screen recording:
-  1. Open this README on GitHub in Edit mode
-  2. Drag and drop your .mp4 or .mov file into the editor
-  3. GitHub will host the video and insert a link automatically
-  4. Replace this comment block with that link
--->
-
-*Demo video coming soon.*
-
----
+https://youtube.com/shorts/YBJABlX2ddI?feature=share
 
 ## Built With
 
@@ -60,4 +49,6 @@ OnePiece/
 
 ## About
 
-Built by Ali Saleh as a CSCI course project at CUNY Hunter College.
+Built by Abdulla
+
+ Saleh as a CSCI course project at CUNY Hunter College.
