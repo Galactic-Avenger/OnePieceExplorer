@@ -127,4 +127,4 @@ OnePiece/
 
 ## About
 
-Built by Ali Saleh as a CSCI course project at CUNY Hunter College.
+Built by Abdulla Saleh as a an academic project at CUNY Hunter College.
