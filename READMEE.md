@@ -5,7 +5,8 @@ A One Piece–themed iOS app built with Swift as part of a CSCI course project.
 ---
 
 ## Demo
-https://youtube.com/shorts/YBJABlX2ddI?feature=share
+[![Watch the YouTube Short](https://youtube.com)](https://youtube.com/shorts/YBJABlX2ddI)
+
 
 ## Built With
 
